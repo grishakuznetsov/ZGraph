@@ -1,0 +1,16 @@
+graph G{
+A -- B [label="5"];
+A -- D [label="3"];
+A -- E [label="12"];
+A -- F [label="5"];
+B -- D [label="1"];
+B -- G [label="2"];
+C -- G [label="2"];
+C -- E [label="1"];
+C -- F [label="16"];
+D -- G [label="1"];
+D -- E [label="1"];
+E -- F [label="2"];
+E -- F [label="2"];
+
+}
